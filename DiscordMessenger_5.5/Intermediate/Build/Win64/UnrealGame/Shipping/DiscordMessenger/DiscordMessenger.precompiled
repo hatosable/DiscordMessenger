@@ -1,0 +1,9 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\DiscordMessenger\\Module.DiscordMessenger.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\DiscordMessenger\\DiscordMessageLibrary.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\DiscordMessenger\\DiscordMessenger.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\DiscordMessenger\\Logging.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\DiscordMessenger\\WebhookSettings.cpp.obj"
+	]
+}
